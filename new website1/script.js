@@ -3,7 +3,6 @@
    - Chart.js via CDN
    - SPA-style navigation (Dashboard / Add / Reports)
 */
-
 (() => {
   "use strict";
 
